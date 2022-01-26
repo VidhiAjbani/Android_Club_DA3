@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "da3_vidhi",
+    "slug": "da3_vidhi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "da3_vidhi"
+}
